@@ -1,0 +1,14 @@
+.find {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    margin-bottom: 10px;
+}
+
+.input {
+    width: 255px;
+}
+
+.text {
+    margin: 0;
+}

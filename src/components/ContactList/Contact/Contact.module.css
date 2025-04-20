@@ -1,0 +1,22 @@
+.cont {
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 7px;
+    justify-content: space-between;
+    align-items: center;
+    width: 255px;
+}
+.btn {
+    height: 40px;
+}
+.contactInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    gap: 7px;
+}
+
+.contactInfoText {
+    margin: 0;
+}
